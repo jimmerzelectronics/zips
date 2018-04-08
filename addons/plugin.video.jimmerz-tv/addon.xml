@@ -1,5 +1,5 @@
 ﻿<?xml version="2.0" encoding="utf-8"?>
-<addon id="plugin.video.jimmerz-tv" name="[COLOR ghostwhite]Jimmerz-TV[/COLOR]" version="2.0" provider-name="Jimmerz Electonics">
+<addon id="plugin.video.jimmerz-tv" name="[COLOR ghostwhite]Jimmerz-TV[/COLOR]" version="3.0" provider-name="Jimmerz Electonics">
   <requires>
     <import addon="xbmc.python" version="2.1.0" />
     <import addon="script.module.requests" />
